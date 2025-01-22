@@ -1,0 +1,1 @@
+mpirun -mca opal_warn_on_missing_libcuda 0 -use-hwthread-cpus -np 12 gradiente 27720
